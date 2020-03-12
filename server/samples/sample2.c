@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include "mqsemaphore.h"
+#include "../mqsemaphore.h"
 
 int main(){
     int msqid; 
